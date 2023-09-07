@@ -1,0 +1,21 @@
+body {
+    padding: 100px;
+}
+
+.start h1 {
+  
+    font-family: "spacerangeracad";
+    font-weight: normal;
+    font-size: 5em;
+    color: #F2F9EE;
+}
+
+
+.start p {
+    font-family: "ninjabotcond";
+    font-weight: normal;
+    font-size: 1.5em;
+    margin-bottom: 2em;
+    color: #81b226;
+}
+

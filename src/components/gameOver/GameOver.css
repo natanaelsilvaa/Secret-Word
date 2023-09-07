@@ -1,0 +1,16 @@
+h1 {
+    font-family: "spacerangeracad";
+    font-size: 3em;
+    font-weight: normal;
+}
+h2 {
+    font-family: "ninjabotcond";
+    font-weight: normal;
+    font-size: 3em;
+}
+
+h2 span {
+    
+    color: #649121;
+    font-size: 1.5em;
+}
